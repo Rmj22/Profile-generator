@@ -6,7 +6,7 @@ After the user enters that infomation a pdf will be generated with their favorit
 and github user profile information such as followers, following, starred projects, number of repos and github url.
 
 # Created with 
-Node.js
-Inquirer
-html-pdf
+Node.js,
+Inquirer,
+html-pdf,
 axios
